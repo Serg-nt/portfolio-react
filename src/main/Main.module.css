@@ -1,0 +1,23 @@
+.mainBlock {
+    padding: 50px 0;
+    background-color: lavender;
+}
+
+.mainBlockContainer {
+    display: flex;
+    gap: 20px;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 300px;
+    background-color: lightgray;
+}
+
+.photo {
+    width: 300px;
+    height: 400px;
+    background-color: gray;
+}

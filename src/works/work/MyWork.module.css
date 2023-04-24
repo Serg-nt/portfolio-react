@@ -1,0 +1,45 @@
+.myWork {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+    width: 375px;
+    background-color: lightgray;
+}
+
+.backgroundImg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 375px;
+    height: 200px;
+    background-image: url(https://cdn.coursehunter.net/course/veb-proekty-javascript-20-proektov-dlya-sozdaniya-vashego-portfolio.jpg);
+}
+
+.button {
+    padding: 10px 20px;
+}
+
+.descriptionBlock {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    width: 100%;
+    padding: 10px 0;
+    border: 1px solid green;
+}
+
+.title {
+    margin: 0 15px;
+    background-color: lavender;
+}
+
+.description {
+    width: 340px;
+    height: 40px;
+    text-align: start;
+    margin: 0 15px;
+    background-color: lavender;
+}
