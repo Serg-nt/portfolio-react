@@ -20,10 +20,11 @@
     flex-direction: column;
     gap: 10px;
     border: 1px solid;
+    width: 260px;
 }
 
 .input {
-    width: 300px;
+    width: 250px;
 }
 
 .button {
